@@ -1,3 +1,34 @@
+# React training app
+
+## Concepts 
+
+- [ ] CLI
+  - [ ] Vite
+- [ ] Components 
+  - [ ] Components basics
+  - [ ] JSX
+  - [ ] Props / State
+  - [ ] Conditional Rendering
+  - [ ] Composition
+- [ ] Basic Hooks
+  - [ ] UseState
+  - [ ] UseEffect
+- [ ] Rendering
+  - [ ] Component Life Cycle
+  - [ ] Lists and keys
+  - [ ] Render props
+  - [ ] Refs
+  - [ ] Event
+  - [ ] High Order Components
+- [ ] Routers (React Router)
+- [ ] State Management
+- [ ] Styling
+  - [ ] Tailwind
+  - [ ] Material UI
+- [ ] API Calls
+- [ ] Testing
+  
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
